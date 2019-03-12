@@ -1,3 +1,15 @@
+
+# 사다리 게임
+ - 사용자로부터 다양한 좌표를 입력받고 좌표를 가지고 거리, 넓이를 계산하여 터미널에 결과표시 및 좌표 또한 표시
+ 
+# 사용
+ - 객체지향적 코딩
+ - 다형성 활용
+ - 단위 테스트 작성
+
+# 실행결과
+![preview](https://github.com/HaeSeongPark/swift-coordinate/blob/HaeSeongPark/coordinatePreview.gif)
+
 # 진행 방법
 
 - 좌표 계산기에 대한 요구사항을 파악한다.
